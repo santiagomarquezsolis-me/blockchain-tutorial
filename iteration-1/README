@@ -9,7 +9,7 @@ Definiendo las Clases Principales
 
 Para nuestra implementación básica, necesitamos definir varias clases esenciales: Block, Blockchain, Transaction y Node.
 
-<h1>Clase Block</h1>
+# Clase Block
 
 La clase Block representa un bloque en la blockchain. Contiene información como el índice del bloque, las transacciones, la marca de tiempo, el hash del bloque anterior, el nonce y el hash actual del bloque.
 

@@ -1,4 +1,5 @@
-En el mundo actual, la tecnología blockchain ha revolucionado la forma en que manejamos la seguridad, la transparencia y la descentralización. En este artículo, vamos a construir una blockchain básica en Python, que será la base para añadir nuevas funcionalidades en el futuro.
+En el mundo actual, la tecnología blockchain ha revolucionado la forma en que manejamos la seguridad, la transparencia y la descentralización. En este artículo, 
+vamos a construir una blockchain básica en Python, que será la base para añadir nuevas funcionalidades en el futuro.
 
 Introducción a la Blockchain
 
@@ -8,7 +9,7 @@ Definiendo las Clases Principales
 
 Para nuestra implementación básica, necesitamos definir varias clases esenciales: Block, Blockchain, Transaction y Node.
 
-Clase Block
+<h1>Clase Block</h1>
 
 La clase Block representa un bloque en la blockchain. Contiene información como el índice del bloque, las transacciones, la marca de tiempo, el hash del bloque anterior, el nonce y el hash actual del bloque.
 
